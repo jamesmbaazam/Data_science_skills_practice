@@ -1,0 +1,9 @@
+bookbook
+matplotlib
+notebook
+nbval
+numpy
+pytest
+scipy
+sympy
+nnn
