@@ -1,18 +1,18 @@
 # Useful packages
-## LaTeX in R
-### latex2exp
+## 1. LaTeX in R
+### A. latex2exp
 `library(latex2exp)` 
 
-*Documentation*
-help(package = 'latex2exp')
-latex2exp_examples()
+*Documentation*  
+help(package = 'latex2exp')  
+latex2exp_examples()  
  - Currently, the only function is `TeX('latex expression in math environment and two backslashes\\')` e.g ?latex2exp::TeX
 
-## Mapping
-### Leaflet
-*Install and run*
+## 1. Mapping
+### A. Leaflet
+*Install and run*  
 `install.packages('leaflet')`
 `library('leaflet')`
 
-*Documentation*
+*Documentation*  
 `help(package = 'leaflet')` 
