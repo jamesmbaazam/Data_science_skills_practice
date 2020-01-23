@@ -1,6 +1,6 @@
 # Useful packages
 ## LaTeX in R
-###latex2exp
+### latex2exp
 `library(latex2exp)` 
 
 *Documentation*
@@ -9,7 +9,7 @@ latex2exp_examples()
  - Currently, the only function is `TeX('latex expression in math environment and two backslashes\\')` e.g ?latex2exp::TeX
 
 ## Mapping
-###Leaflet
+### Leaflet
 *Install and run*
 `install.packages('leaflet')`
 `library('leaflet')`
