@@ -105,3 +105,15 @@ venv.bak/
 .Rproj.user
 
 .Rhistory
+
+*.csv
+
+*.json
+
+*.png
+
+*.htm
+
+*.xlsx
+
+*.sqlite
